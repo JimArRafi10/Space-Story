@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="storyTitles">
+        <item>Earth</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Neptune</item>
+        <item>Mars</item>
+        <item>Uranus</item>
+        <item>Venus</item>
+        <item>Mercury</item>
+        <item>Sun</item>
+        <item>Blackhole</item>
+        <item>Wormhole</item>
+    </string-array>
+
+</resources>
