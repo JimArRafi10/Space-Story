@@ -1,4 +1,4 @@
-##Space Story
+## Space Story
 
 # About
  - An android app that will help people to know about space.
