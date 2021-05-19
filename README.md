@@ -1,15 +1,15 @@
 # Space Story
 
-# About
+## About
  - An android app that will help people to know about space.
  - Right now it's content have only general things.
  
-# Future Feature
+## Future Feature
  - Catagories
  - Share
  - Wow moment
 
-# What the app look like
+## What the app looks like
 
 ![2021-05-17 (3)](https://user-images.githubusercontent.com/70357675/118738526-1c408780-b869-11eb-93d8-d73df1f115d5.png)
 
